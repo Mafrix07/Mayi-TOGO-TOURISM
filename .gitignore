@@ -1,0 +1,22 @@
+# Fichiers de dépendances et de build de Flutter/Dart
+frontend/mayi_app/build/
+frontend/mayi_app/.dart_tool/
+frontend/mayi_app/.packages
+frontend/mayi_app/.flutter-plugins
+frontend/mayi_app/.flutter-plugins-dependencies
+
+# Fichiers de dépendances et de build de Python/Backend
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Fichiers d'IDE généraux
+.idea/
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
